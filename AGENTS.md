@@ -1,4 +1,4 @@
-# AGENTS.md — lean-interest-mgmt
+# AGENTS.md — contract-interest-mgmt
 
 Guidance for AI coding agents working in this repo.
 

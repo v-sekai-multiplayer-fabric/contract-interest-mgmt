@@ -1,4 +1,4 @@
-# lean-interest-mgmt
+# contract-interest-mgmt
 
 Authority-interest + solve-order hexagon: who-sees-whom and solve sequencing.
 
@@ -6,10 +6,10 @@ Authority-interest + solve-order hexagon: who-sees-whom and solve sequencing.
 
 ## Dependencies
 
-- [`lean-shared-core`](v-sekai-multiplayer-fabric/lean-shared-core) — common primitive types
-- [`lean-rebac-core`](v-sekai-multiplayer-fabric/lean-rebac-core) — authority decisions
-- [`lean-spatial-oracle`](v-sekai-multiplayer-fabric/lean-spatial-oracle) — reachability/mapping references (also the transitive Mathlib source)
-- [`lean-fabric-protocol`](v-sekai-multiplayer-fabric/lean-fabric-protocol) — interest queries source
+- [`entities-lean-shared`](https://github.com/v-sekai-multiplayer-fabric/entities-lean-shared) — common primitive types
+- [`entities-lean-rebac`](https://github.com/v-sekai-multiplayer-fabric/entities-lean-rebac) — authority decisions
+- [`interactor-spatial-oracle`](https://github.com/v-sekai-multiplayer-fabric/interactor-spatial-oracle) — reachability/mapping references (also the transitive Mathlib source)
+- [`contract-protocol`](https://github.com/v-sekai-multiplayer-fabric/contract-protocol) — interest queries source
 
 ## Build
 
